@@ -15,5 +15,6 @@ export default {
 	Gain,
 	StereoPanner,
 	WaveShaper,
-	Analyser
+	Analyser,
+	...shared
 }

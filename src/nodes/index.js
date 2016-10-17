@@ -5,7 +5,8 @@ import outputs from './outputs'
 const nodes = {
 	...inputs,
 	...processors,
-	...outputs
+	...outputs,
+	...shared
 }
 
 export default nodes
