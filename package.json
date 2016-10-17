@@ -33,5 +33,8 @@
     "eslint": "1.10.3",
     "linter": "git+https://github.com/chrbala/linter.git#332fcad",
     "tape": "4.4.0"
+  },
+  "dependencies": {
+    "linter": "git+https://github.com/chrbala/linter.git#332fcad"
   }
 }
